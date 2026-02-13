@@ -24,7 +24,7 @@ Fine-tuned LLM (Qwen 4B) that transforms technical marine weather data into huma
 
 ---
 
-### 🌿 [PlantCLEF Multi-Species Identification](https://github.com/pfostbit/multi_plant_id)
+### 🌿 [PlantCLEF Multi-Species Identification](https://github.com/pfost-bit/multi_plant_id)
 Deep learning pipeline for identifying multiple plant species simultaneously in complex vegetation quadrat images (PlantCLEF 2025 Kaggle challenge).
 
 **Tech Stack:** Python, PyTorch, DINOv2, LoRA, FAISS  
