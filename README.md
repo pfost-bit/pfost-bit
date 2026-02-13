@@ -1,10 +1,10 @@
-# Hi, I'm Patrick Foster 👋
+# Hi, I'm Patrick Foster 
 
 **Data Scientist | ML Engineer | Surfer/Climber/OutDoors Enthusiast**
 
 I build intelligent systems that solve real-world problems, from humanitarian AI to domain-specific language models. Currently, pursuing graduate studies in Data Science with a focus on machine learning applications.
 
-## 🎯 What I Do
+##  What I Do
 
 I specialize in:
 - **Machine Learning & NLP:** Fine-tuning LLMs, prompt engineering, domain adaptation
@@ -13,7 +13,7 @@ I specialize in:
 - **Data Engineering:** API integration, web scraping, ETL pipelines
 - **Geospatial ML:** Aerial imagery analysis for disaster response and humanitarian applications
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🏄‍♂️ [SurfMine: AI Surf Forecast Generator](https://github.com/pfost-bit/SurfMine)
 Fine-tuned LLM (Qwen 4B) that transforms technical marine weather data into human-readable surf reports with authentic surf culture language.
@@ -51,12 +51,12 @@ Applications: Multivariate return modeling, covariance estimation, portfolio ris
 ---
 
 
-### 📊 Additional Projects
+###  Additional Projects
 - **Statistical Modeling:** Advanced regression, time series, experimental design
 - **API Development:** RESTful data pipelines for real-time weather and surf data
 - **Geospatial Analysis:** Coordinate transformation, spatial clustering, mapping
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Languages:** Python, R, SQL  
 **ML/AI:** PyTorch, HuggingFace, scikit-learn, tidymodels, XGBoost, FAISS  
@@ -67,19 +67,19 @@ Applications: Multivariate return modeling, covariance estimation, portfolio ris
 **Cloud/Deployment:** HuggingFace Hub, Docker, high-performance computing clusters
 
 
-## 🎓 Education & Learning
+##  Education & Learning
 
-- **Graduate Studies:** Data Science (In Progress)
+- **Graduate Studies:** Data Science (In Progress UVA 2026)
 - **Continuous Learning:** LLM fine-tuning, prompt engineering, computer vision
 
-## 🌊 Beyond Code
+##  Beyond Code
 
 When I'm not training models, you'll find me:
 - 🏄‍♂️ Surfing the VA/NC coast (living the data I model!)
 - 📚 Reading about AI safety and responsible ML
 - 🌍 Contributing to humanitarian tech projects
 
-## 📫 Let's Connect
+##  Let's Connect
 
 I'm always interested in collaborating on projects involving:
 - Applied machine learning for social good
