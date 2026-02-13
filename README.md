@@ -15,7 +15,7 @@ I specialize in:
 
 ## Featured Projects
 
-### 🏄‍♂️ [SurfMine: AI Surf Forecast Generator](https://github.com/pfost-bit/SurfMine)
+### 🏄‍♂️ [SurfMine: AI Surf Forecast Generator](https://github.com/pfost-bit/SurfMineModelCreation)
 Fine-tuned LLM (Qwen 4B) that transforms technical marine weather data into human-readable surf reports with authentic surf culture language.
 
 **Tech Stack:** Python, PyTorch, HuggingFace Transformers, LoRA  
@@ -24,7 +24,7 @@ Fine-tuned LLM (Qwen 4B) that transforms technical marine weather data into huma
 
 ---
 
-### 🌿 [PlantCLEF Multi-Species Identification](https://github.com/jme-sds/multi_plant_id)
+### 🌿 [PlantCLEF Multi-Species Identification](https://github.com/pfostbit/multi_plant_id)
 Deep learning pipeline for identifying multiple plant species simultaneously in complex vegetation quadrat images (PlantCLEF 2025 Kaggle challenge).
 
 **Tech Stack:** Python, PyTorch, DINOv2, LoRA, FAISS  
@@ -33,7 +33,7 @@ Deep learning pipeline for identifying multiple plant species simultaneously in 
 
 ---
 
-### 🏠 [Disaster Relief Blue Tarp Detection](https://github.com/pfost-bit/disaster-relief-ml)
+### 🏠 [Disaster Relief Blue Tarp Detection](https://github.com/pfost-bit/knn)
 ML classification system for identifying emergency shelters in post-disaster aerial imagery, enabling faster humanitarian response mapping.
 
 **Tech Stack:** R, tidymodels, XGBoost, Random Forest, KNN  
