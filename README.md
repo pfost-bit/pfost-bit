@@ -62,7 +62,7 @@ Applications: Multivariate return modeling, covariance estimation, portfolio ris
 **ML/AI:** PyTorch, HuggingFace, scikit-learn, tidymodels, XGBoost, FAISS  
 **Computer Vision:** timm, torchvision, DINOv2, LoRA/PEFT, Grad-CAM  
 **Data Science:** pandas, NumPy, tidyverse, ggplot2, plotly  
-**Bayesian/Probabilistic:** STAN, cmdstanpy, PyMC, ArviZ, probabilistic programming
+**Bayesian/Probabilistic:** STAN, cmdstanpy, PyMC, ArviZ, probabilistic programming  
 **Tools:** Git, Jupyter, RStudio, Google Colab, Weights & Biases, Slurm  
 **Cloud/Deployment:** HuggingFace Hub, Docker, high-performance computing clusters
 
