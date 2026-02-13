@@ -42,6 +42,14 @@ ML classification system for identifying emergency shelters in post-disaster aer
 
 ---
 
+### 📈 Bayesian Portfolio Analysis with STAN
+Probabilistic programming coursework implementing Bayesian inference for financial portfolio optimization and risk modeling.
+Tech Stack: Python, STAN, cmdstanpy, NumPy, pandas
+Highlights: Normal-Inverse-Wishart priors, LKJ correlation priors, MCMC diagnostics, prior/posterior predictive checks
+Applications: Multivariate return modeling, covariance estimation, portfolio risk assessment
+
+---
+
 
 ### 📊 Additional Projects
 - **Statistical Modeling:** Advanced regression, time series, experimental design
@@ -54,6 +62,7 @@ ML classification system for identifying emergency shelters in post-disaster aer
 **ML/AI:** PyTorch, HuggingFace, scikit-learn, tidymodels, XGBoost, FAISS  
 **Computer Vision:** timm, torchvision, DINOv2, LoRA/PEFT, Grad-CAM  
 **Data Science:** pandas, NumPy, tidyverse, ggplot2, plotly  
+**Bayesian/Probabilistic:** STAN, cmdstanpy, PyMC, ArviZ, probabilistic programming
 **Tools:** Git, Jupyter, RStudio, Google Colab, Weights & Biases, Slurm  
 **Cloud/Deployment:** HuggingFace Hub, Docker, high-performance computing clusters
 
